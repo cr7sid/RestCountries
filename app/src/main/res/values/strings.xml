@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">RestCountries</string>
+    <string name="fetch_data">Fetch Data</string>
+</resources>
