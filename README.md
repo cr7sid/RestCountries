@@ -14,4 +14,4 @@ languages.
 3. The list view then displays all the countries name in Asia.
 4. On clicking the list view item, a toast pops up that displays all the required information about the selected country.
 
-[^1]: Created by **Siddharth Dubey**
+<sup> Created by **Siddharth Dubey** </sup>
